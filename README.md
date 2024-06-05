@@ -3,7 +3,7 @@
 
 
 ### Hi there, I am Pradeep Madiraju 👋
-[![Linkedin Badge](https://img.shields.io/badge/-MadirajuPradeep-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pradeep-raju-madiraju/)](https://www.linkedin.com/in/pradeep-raju-madiraju/)
+[![Linkedin Badge](https://img.shields.io/badge/-MadirajuPradeep-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pradeep-raju-madiraju/)](https://www.linkedin.com/in/madiraju-p/)
 [![Gmail Badge](https://img.shields.io/badge/-madirajupradeep@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:madirajupradeep@gmail.com)](mailto:madirajupradeep@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://madirajupradeep.github.io/Portfolio.github.io/)
